@@ -1,6 +1,6 @@
 total 32
 drwxrwxr-x. 3 adum adum 4096 Oct  1 22:06 ADUM_9289131-CEN036
-drwxrwxr-x. 3 adum adum 4096 Oct  1 22:30 adum_prova1
+drwxrwxr-x. 3 adum adum 4096 Oct  1 23:45 adum_prova1
 -rw-rw-r--. 1 adum adum    0 Sep 11 18:54 amanda.py
 drwxrwxr-x. 7 adum adum 4096 Sep 26 17:33 git_amanda
 drwxrwxr-x. 3 adum adum 4096 Sep  1 21:13 git_teste
